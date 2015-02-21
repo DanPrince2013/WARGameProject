@@ -1,9 +1,9 @@
 <?php
 /**
- * Created by Dan Prince via JetBrains PhpStorm.
+ * Created by Dan Prince
  * Date: 5/4/13
  * Time: 9:38 AM
- * Description: Messing with GIT a little bit
+ * Description: 
  */
 
 include_once "Deck.php";
